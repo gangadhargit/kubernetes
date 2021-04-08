@@ -51,6 +51,7 @@ func FuzzDurationStrict(b []byte) int {
 	}
 	return 1
 }
+hii 
 
 // FuzzMicroTimeStrict is a fuzz target for strict-unmarshaling MicroTime
 // defined in "k8s.io/apimachinery/pkg/apis/meta/v1". This target also checks
